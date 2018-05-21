@@ -1,0 +1,8 @@
+True
+-a b c
+-b d
+e -d f
+-f e
+-e
+a
+c
